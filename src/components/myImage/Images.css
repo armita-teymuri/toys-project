@@ -1,0 +1,9 @@
+.my-image {
+  width: 180px;
+  height: 180px;
+  background-color: aqua;
+  border-radius: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

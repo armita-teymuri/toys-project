@@ -1,0 +1,29 @@
+.icon {
+  width: 2em;
+  height: 2em;
+  border-radius: 100%;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon:hover {
+  background-color: #809b1b;
+}
+.icon-list {
+  display: flex;
+  flex-direction: row;
+}
+.story-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  background-color: var(--primary);
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

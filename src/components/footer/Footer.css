@@ -1,0 +1,34 @@
+.footer-container {
+  width: 100%;
+  height: 30vh;
+  background-color: var(--primary);
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: white !important;
+}
+.footer-menu {
+  display: flex;
+  flex-direction: row;
+  width: 84%;
+  height: 50%;
+  justify-content: space-between;
+
+  align-items: center;
+}
+.footer-menu a {
+  color: white !important;
+}
+hr {
+  width: 84%;
+  color: white;
+}
+.create-by {
+  display: flex;
+  flex-direction: row;
+  width: 84%;
+  height: 50%;
+  align-items: center;
+  justify-content: space-between;
+}

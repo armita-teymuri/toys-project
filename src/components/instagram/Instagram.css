@@ -1,0 +1,16 @@
+.instagram-img-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 84%;
+  margin: 50px 0;
+}
+.instagram-contaoiner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.instagram-contaoiner > h5 {
+  color: var(--primary);
+}
